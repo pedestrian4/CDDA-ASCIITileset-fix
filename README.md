@@ -1,7 +1,7 @@
 # CDDA-ASCIITileset-fix
-A fixed ASCIITileset version.
+A fixed ASCIITileset version for overmap use.
 
-A temporary fix that covers all overmap tiles in vanila cdda and Aftershock
+A fix that covers all overmap tiles in vanila cdda and the default mods in 'data/mods' folder.
 
 Fixes:
 All buildings that have its background color.
